@@ -1,0 +1,218 @@
+[
+  {
+    "q": "What is the time complexity of accessing an element in an array by index?",
+    "o": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+    "a": "O(1)",
+    "level": "Easy"
+  },
+  {
+    "q": "Which data structure uses FIFO (First In First Out) principle?",
+    "o": ["Queue", "Stack", "Linked List", "Tree"],
+    "a": "Queue",
+    "level": "Easy"
+  },
+  {
+    "q": "Which data structure uses LIFO (Last In First Out) principle?",
+    "o": ["Stack", "Queue", "Array", "Graph"],
+    "a": "Stack",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is a linear data structure?",
+    "o": ["Array", "Binary Tree", "Graph", "Heap"],
+    "a": "Array",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is a non-linear data structure?",
+    "o": ["Tree", "Stack", "Queue", "Array"],
+    "a": "Tree",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following sorting algorithms has the best average-case performance?",
+    "o": ["Merge Sort", "Bubble Sort", "Insertion Sort", "Selection Sort"],
+    "a": "Merge Sort",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which data structure is used in BFS (Breadth-First Search) of a graph?",
+    "o": ["Queue", "Stack", "Array", "Linked List"],
+    "a": "Queue",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which data structure is used in DFS (Depth-First Search) of a graph?",
+    "o": ["Stack", "Queue", "Heap", "Array"],
+    "a": "Stack",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the height of a balanced binary search tree with n nodes?",
+    "o": ["O(log n)", "O(n)", "O(n^2)", "O(1)"],
+    "a": "O(log n)",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a stable sorting algorithm?",
+    "o": ["Merge Sort", "Quick Sort", "Heap Sort", "Selection Sort"],
+    "a": "Merge Sort",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which data structure is used for implementing recursion?",
+    "o": ["Stack", "Queue", "Heap", "Linked List"],
+    "a": "Stack",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the worst-case time complexity of Quick Sort?",
+    "o": ["O(n^2)", "O(n log n)", "O(n)", "O(log n)"],
+    "a": "O(n^2)",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is an example of a dynamic data structure?",
+    "o": ["Linked List", "Array", "Stack (Array Implementation)", "String"],
+    "a": "Linked List",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which data structure is best for implementing a priority queue?",
+    "o": ["Heap", "Queue", "Stack", "Array"],
+    "a": "Heap",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which traversal visits nodes in the order: left, root, right?",
+    "o": ["Inorder", "Preorder", "Postorder", "Level Order"],
+    "a": "Inorder",
+    "level": "Easy"
+  },
+  {
+    "q": "Which traversal visits nodes in the order: root, left, right?",
+    "o": ["Preorder", "Inorder", "Postorder", "Level Order"],
+    "a": "Preorder",
+    "level": "Easy"
+  },
+  {
+    "q": "Which traversal visits nodes in the order: left, right, root?",
+    "o": ["Postorder", "Inorder", "Preorder", "Level Order"],
+    "a": "Postorder",
+    "level": "Easy"
+  },
+  {
+    "q": "Which graph representation is more space efficient for sparse graphs?",
+    "o": ["Adjacency List", "Adjacency Matrix", "Edge List", "Incidence Matrix"],
+    "a": "Adjacency List",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which graph representation is more space efficient for dense graphs?",
+    "o": ["Adjacency Matrix", "Adjacency List", "Edge List", "Incidence Matrix"],
+    "a": "Adjacency Matrix",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which algorithm is used to find shortest paths from a single source in a weighted graph without negative weights?",
+    "o": ["Dijkstra's Algorithm", "Bellman-Ford Algorithm", "Floyd-Warshall Algorithm", "Prim's Algorithm"],
+    "a": "Dijkstra's Algorithm",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which algorithm is used to find minimum spanning tree of a graph?",
+    "o": ["Kruskal's Algorithm", "Dijkstra's Algorithm", "Floyd-Warshall Algorithm", "DFS"],
+    "a": "Kruskal's Algorithm",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which algorithm is more efficient for sparse graphs: Kruskal or Prim?",
+    "o": ["Kruskal", "Prim", "Both same", "Depends on implementation"],
+    "a": "Kruskal",
+    "level": "Difficult"
+  },
+  {
+    "q": "What is the worst-case time complexity of searching in a balanced binary search tree?",
+    "o": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+    "a": "O(log n)",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used for cycle detection in a directed graph?",
+    "o": ["DFS with recursion stack", "BFS", "Dijkstra", "Heap"],
+    "a": "DFS with recursion stack",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which hashing technique handles collisions using linked lists?",
+    "o": ["Chaining", "Open Addressing", "Double Hashing", "Linear Probing"],
+    "a": "Chaining",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which hashing technique handles collisions using next available slot?",
+    "o": ["Linear Probing", "Chaining", "Separate Chaining", "Quadratic Probing"],
+    "a": "Linear Probing",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true for a max heap?",
+    "o": ["Parent node >= child nodes", "Parent node <= child nodes", "All nodes equal", "None"],
+    "a": "Parent node >= child nodes",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true for a min heap?",
+    "o": ["Parent node <= child nodes", "Parent node >= child nodes", "All nodes equal", "None"],
+    "a": "Parent node <= child nodes",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which data structure is used in implementing recursion internally?",
+    "o": ["Stack", "Queue", "Heap", "Array"],
+    "a": "Stack",
+    "level": "Easy"
+  },
+  {
+    "q": "Which search algorithm is efficient for a sorted array?",
+    "o": ["Binary Search", "Linear Search", "Jump Search", "Exponential Search"],
+    "a": "Binary Search",
+    "level": "Easy"
+  },
+  {
+    "q": "Which algorithm is used for topological sorting of a DAG?",
+    "o": ["DFS based ordering", "BFS", "Dijkstra", "Prim"],
+    "a": "DFS based ordering",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is a self-balancing binary search tree?",
+    "o": ["AVL Tree", "BST", "Heap", "Graph"],
+    "a": "AVL Tree",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which algorithm is used for detecting strongly connected components in a graph?",
+    "o": ["Kosaraju's Algorithm", "Dijkstra", "Prim", "Kruskal"],
+    "a": "Kosaraju's Algorithm",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following operations is expensive for linked lists?",
+    "o": ["Random access by index", "Insertion at head", "Deletion at head", "Traversal"],
+    "a": "Random access by index",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which sorting algorithm is in-place and has average time complexity O(n log n)?",
+    "o": ["Quick Sort", "Merge Sort", "Bubble Sort", "Insertion Sort"],
+    "a": "Quick Sort",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following can be used to implement a stack?",
+    "o": ["Array", "Linked List", "Both", "Queue"],
+    "a": "Both",
+    "level": "Easy"
+  }
+]

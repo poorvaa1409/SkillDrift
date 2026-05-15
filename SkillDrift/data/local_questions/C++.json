@@ -1,0 +1,194 @@
+[
+  {
+    "q": "Which of the following is the correct way to declare an integer variable in C++?",
+    "o": ["int x;", "integer x;", "var x;", "num x;"],
+    "a": "int x;",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is the correct syntax for single-line comments in C++?",
+    "o": ["// This is a comment", "/* This is a comment */", "# This is a comment", "<!-- comment -->"],
+    "a": "// This is a comment",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is a C++ keyword?",
+    "o": ["class", "function", "def", "var"],
+    "a": "class",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is correct about C++ constructors?",
+    "o": ["Constructor has same name as class", "Constructor cannot have return type", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is correct syntax to create an object in C++?",
+    "o": ["ClassName obj;", "ClassName obj = new ClassName();", "Both 1 and 2", "obj ClassName;"],
+    "a": "ClassName obj;",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which operator is used for scope resolution in C++?",
+    "o": ["::", ":", ".", "->"],
+    "a": "::",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used for dynamic memory allocation in C++?",
+    "o": ["new", "malloc", "Both new and malloc", "alloc"],
+    "a": "Both new and malloc",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following correctly declares a pointer in C++?",
+    "o": ["int *ptr;", "int ptr*;", "pointer int ptr;", "int &ptr;"],
+    "a": "int *ptr;",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which keyword is used to prevent a class from being inherited in C++?",
+    "o": ["final", "static", "protected", "private"],
+    "a": "final",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is correct about C++ destructors?",
+    "o": ["Destructor has same name as class with ~", "Destructor cannot have parameters", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used for input/output in C++?",
+    "o": ["cin/cout", "scanf/printf", "Both", "input/output"],
+    "a": "cin/cout",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is correct about C++ arrays?",
+    "o": ["Array indexing starts at 0", "Array size must be constant", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which operator is used to access members of a class object using pointer?",
+    "o": ["->", ".", "*", "&"],
+    "a": "->",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about C++ inheritance types?",
+    "o": ["Public inheritance exposes public members", "Private inheritance hides base members", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is correct syntax for a C++ template function?",
+    "o": ["template<typename T> T add(T a, T b) { return a+b; }", "template add<T>(T a, T b){ return a+b; }", "template function<T> add(T a, T b){...}", "None of the above"],
+    "a": "template<typename T> T add(T a, T b) { return a+b; }",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about C++ virtual functions?",
+    "o": ["Used for runtime polymorphism", "Declared using virtual keyword", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is correct about operator overloading in C++?",
+    "o": ["You can redefine operators for user-defined types", "Cannot overload new or delete operators", "Both are incorrect", "Operators cannot be overloaded"],
+    "a": "You can redefine operators for user-defined types",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is correct to declare a 2D array in C++?",
+    "o": ["int arr[3][4];", "int arr[4,3];", "int arr[][];", "array int arr[3][4];"],
+    "a": "int arr[3][4];",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about C++ reference variables?",
+    "o": ["Cannot be null", "Must be initialized when declared", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is correct about C++ multiple inheritance?",
+    "o": ["A derived class can inherit from more than one base class", "Not supported in C++", "Only interface can be multiply inherited", "None"],
+    "a": "A derived class can inherit from more than one base class",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is used for exception handling in C++?",
+    "o": ["try/catch/throw", "try/except", "raise/catch", "error handling"],
+    "a": "try/catch/throw",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about const in C++?",
+    "o": ["Const variables cannot be modified", "Const can be used with pointers", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these correctly declares a C++ function pointer?",
+    "o": ["int (*fptr)(int, int);", "int fptr*(int, int);", "int &fptr(int, int);", "function int fptr(int, int);"],
+    "a": "int (*fptr)(int, int);",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is correct about C++ STL?",
+    "o": ["STL provides ready-to-use data structures and algorithms", "STL is only for arrays", "STL cannot be used with custom classes", "None"],
+    "a": "STL provides ready-to-use data structures and algorithms",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about C++ friend functions?",
+    "o": ["Can access private members of class", "Declared using friend keyword", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about C++ destructors?",
+    "o": ["Called automatically when object goes out of scope", "Cannot have parameters", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is correct about C++ inline functions?",
+    "o": ["Suggest compiler to replace call with function code", "Cannot have return type", "Both statements are correct", "None"],
+    "a": "Suggest compiler to replace call with function code",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is correct about C++ virtual destructors?",
+    "o": ["Used for proper cleanup of derived class objects", "Declared using virtual keyword", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about C++ polymorphism?",
+    "o": ["Compile-time polymorphism using function overloading", "Runtime polymorphism using virtual functions", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about C++ templates?",
+    "o": ["Templates allow generic programming", "Can be used for functions and classes", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about C++ new operator?",
+    "o": ["Allocates memory from heap", "Returns pointer to allocated memory", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about C++ exception specifications (deprecated)?",
+    "o": ["Used to declare exceptions a function may throw", "No longer recommended in modern C++", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  }
+]

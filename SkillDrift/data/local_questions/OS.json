@@ -1,0 +1,224 @@
+[
+  {
+    "q": "What is the main purpose of an operating system?",
+    "o": ["Manage hardware and software resources", "Compile programs", "Design databases", "Write applications"],
+    "a": "Manage hardware and software resources",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is NOT an operating system?",
+    "o": ["Python", "Linux", "Windows", "macOS"],
+    "a": "Python",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the function of a kernel in an OS?",
+    "o": ["Manage CPU, memory, and devices", "Compile code", "Render graphics", "Handle networking protocols only"],
+    "a": "Manage CPU, memory, and devices",
+    "level": "Easy"
+  },
+  {
+    "q": "Which scheduling algorithm assigns CPU to the process with the shortest burst time next?",
+    "o": ["Shortest Job First", "Round Robin", "FCFS", "Priority Scheduling"],
+    "a": "Shortest Job First",
+    "level": "Moderate"
+  },
+  {
+    "q": "What does the term 'context switch' mean?",
+    "o": ["Switching CPU from one process to another", "Switching memory segments", "Changing the OS", "Switching user accounts"],
+    "a": "Switching CPU from one process to another",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a type of OS?",
+    "o": ["Batch, Time-Sharing, Real-Time, Distributed", "Linux, Windows, macOS", "Compiler, Interpreter, Linker", "Router, Switch, Hub"],
+    "a": "Batch, Time-Sharing, Real-Time, Distributed",
+    "level": "Easy"
+  },
+  {
+    "q": "What is a deadlock in OS?",
+    "o": ["A situation where processes wait indefinitely for resources", "A type of virus", "Memory leak", "File corruption"],
+    "a": "A situation where processes wait indefinitely for resources",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used for memory management in OS?",
+    "o": ["Paging, Segmentation, Virtual Memory", "HTTP, TCP, UDP", "SQL, NoSQL", "FIFO, LIFO"],
+    "a": "Paging, Segmentation, Virtual Memory",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which OS structure provides better reliability by dividing into layers?",
+    "o": ["Layered OS", "Monolithic OS", "Microkernel", "Distributed OS"],
+    "a": "Layered OS",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which CPU scheduling algorithm uses time slices?",
+    "o": ["Round Robin", "FCFS", "SJF", "Priority Scheduling"],
+    "a": "Round Robin",
+    "level": "Easy"
+  },
+  {
+    "q": "Which memory allocation is used in virtual memory systems?",
+    "o": ["Paging", "Segmentation only", "Contiguous allocation", "Indexed allocation"],
+    "a": "Paging",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is a process in an operating system?",
+    "o": ["An executing program", "A stored file", "A user account", "A memory block"],
+    "a": "An executing program",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about a thread?",
+    "o": ["A lightweight process", "A program", "A memory segment", "A type of file system"],
+    "a": "A lightweight process",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the function of a file system?",
+    "o": ["Organize and store files on disk", "Manage network packets", "Schedule CPU tasks", "Manage memory pages"],
+    "a": "Organize and store files on disk",
+    "level": "Easy"
+  },
+  {
+    "q": "Which condition is necessary for a deadlock?",
+    "o": ["Mutual exclusion, Hold and wait, No preemption, Circular wait", "Only mutual exclusion", "Only circular wait", "Only no preemption"],
+    "a": "Mutual exclusion, Hold and wait, No preemption, Circular wait",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which type of OS allows multiple users to access resources simultaneously?",
+    "o": ["Time-sharing OS", "Batch OS", "Single-user OS", "Embedded OS"],
+    "a": "Time-sharing OS",
+    "level": "Easy"
+  },
+  {
+    "q": "Which page replacement algorithm removes the page that hasn’t been used for the longest time?",
+    "o": ["LRU (Least Recently Used)", "FIFO", "Optimal", "Random"],
+    "a": "LRU (Least Recently Used)",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is thrashing in OS?",
+    "o": ["Excessive paging causing CPU to spend more time swapping than executing", "A deadlock situation", "File corruption", "Memory leak"],
+    "a": "Excessive paging causing CPU to spend more time swapping than executing",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which OS allows multiple programs to run concurrently on a single CPU?",
+    "o": ["Multitasking OS", "Batch OS", "Single-user OS", "Embedded OS"],
+    "a": "Multitasking OS",
+    "level": "Easy"
+  },
+  {
+    "q": "Which scheduling algorithm assigns priority to each process?",
+    "o": ["Priority Scheduling", "FCFS", "Round Robin", "SJF"],
+    "a": "Priority Scheduling",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which is an example of a real-time operating system?",
+    "o": ["VxWorks", "Linux", "Windows 10", "macOS"],
+    "a": "VxWorks",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which OS structure reduces OS size by running most services in user space?",
+    "o": ["Microkernel", "Monolithic kernel", "Layered OS", "Hybrid kernel"],
+    "a": "Microkernel",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which method prevents deadlocks by denying at least one of the four necessary conditions?",
+    "o": ["Deadlock prevention", "Deadlock avoidance", "Deadlock detection", "Deadlock recovery"],
+    "a": "Deadlock prevention",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is a non-preemptive scheduling algorithm?",
+    "o": ["FCFS", "Round Robin", "Priority preemptive", "SRTF"],
+    "a": "FCFS",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which technique increases CPU utilization by switching processes during I/O waits?",
+    "o": ["Multiprogramming", "Multithreading", "Time-sharing", "Batch processing"],
+    "a": "Multiprogramming",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the main advantage of virtual memory?",
+    "o": ["Allows execution of programs larger than physical memory", "Faster disk I/O", "Prevents deadlocks", "Improves scheduling"],
+    "a": "Allows execution of programs larger than physical memory",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which scheduling algorithm minimizes average waiting time?",
+    "o": ["SJF (Shortest Job First)", "FCFS", "Round Robin", "Priority Scheduling"],
+    "a": "SJF (Shortest Job First)",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which OS module interacts directly with hardware devices?",
+    "o": ["Device drivers", "File system", "Scheduler", "User interface"],
+    "a": "Device drivers",
+    "level": "Easy"
+  },
+  {
+    "q": "Which OS manages multiple computers connected over a network as a single system?",
+    "o": ["Distributed OS", "Real-time OS", "Embedded OS", "Batch OS"],
+    "a": "Distributed OS",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is true about semaphores?",
+    "o": ["Used for process synchronization", "Used for memory allocation", "Used for disk scheduling", "Used for network communication"],
+    "a": "Used for process synchronization",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which type of OS is designed to run on embedded systems?",
+    "o": ["Embedded OS", "Real-time OS", "Distributed OS", "Batch OS"],
+    "a": "Embedded OS",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following prevents multiple processes from accessing shared resources simultaneously?",
+    "o": ["Mutex", "Semaphore", "Both Mutex and Semaphore", "Virtual Memory"],
+    "a": "Both Mutex and Semaphore",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which page replacement algorithm replaces the page that will not be used for the longest future period?",
+    "o": ["Optimal", "FIFO", "LRU", "Random"],
+    "a": "Optimal",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which type of OS is designed for a specific task like industrial machines?",
+    "o": ["Real-time OS", "Batch OS", "Time-sharing OS", "Distributed OS"],
+    "a": "Real-time OS",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which OS component decides which process runs next?",
+    "o": ["Scheduler", "Memory manager", "File manager", "Device manager"],
+    "a": "Scheduler",
+    "level": "Easy"
+  },
+  {
+    "q": "Which memory management scheme allows processes to run without contiguous memory?",
+    "o": ["Paging", "Segmentation", "Contiguous allocation", "Indexed allocation"],
+    "a": "Paging",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which algorithm detects deadlocks by checking resource allocation graph?",
+    "o": ["Deadlock detection algorithm", "Deadlock prevention algorithm", "Deadlock avoidance algorithm", "Banker's algorithm"],
+    "a": "Deadlock detection algorithm",
+    "level": "Difficult"
+  }
+]

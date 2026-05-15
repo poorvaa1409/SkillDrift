@@ -1,0 +1,242 @@
+[
+  {
+    "q": "What is the output of print(2 ** 3)?",
+    "o": ["6", "8", "9", "5"],
+    "a": "8",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method converts a string to lowercase?",
+    "o": [".upper()", ".lower()", ".capitalize()", ".title()"],
+    "a": ".lower()",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of len([1,2,3])?",
+    "o": ["2", "3", "1", "0"],
+    "a": "3",
+    "level": "Easy"
+  },
+  {
+    "q": "What keyword is used to define a function in Python?",
+    "o": ["func", "define", "def", "function"],
+    "a": "def",
+    "level": "Moderate"
+  },
+  {
+    "q": "What will be the output of print('Python'[-1])?",
+    "o": ["P", "n", "o", "y"],
+    "a": "n",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which data type is mutable in Python?",
+    "o": ["tuple", "list", "string", "int"],
+    "a": "list",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the output of print(10 // 3)?",
+    "o": ["3", "3.33", "4", "3.0"],
+    "a": "3",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these statements is correct about Python decorators?",
+    "o": ["They are used to modify functions", "They are loops", "They define classes", "They import modules"],
+    "a": "They are used to modify functions",
+    "level": "Difficult"
+  },
+  {
+    "q": "What is the difference between deep copy and shallow copy?",
+    "o": ["Shallow copy copies objects recursively", "Deep copy copies references only", "Shallow copy copies references, deep copy copies values", "No difference"],
+    "a": "Shallow copy copies references, deep copy copies values",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which module is used for regular expressions in Python?",
+    "o": ["regex", "re", "pyregex", "expression"],
+    "a": "re",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the correct way to open a file for writing?",
+    "o": ["open('file.txt', 'r')", "open('file.txt', 'w')", "open('file.txt', 'a')", "open('file.txt', 'x')"],
+    "a": "open('file.txt', 'w')",
+    "level": "Easy"
+  },
+  {
+    "q": "What will be the output of: print(bool('False'))?",
+    "o": ["False", "True", "0", "Error"],
+    "a": "True",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the difference between 'is' and '==' in Python?",
+    "o": ["'is' compares value, '==' compares identity", "'is' compares identity, '==' compares value", "Both are same", "Both compare value only"],
+    "a": "'is' compares identity, '==' compares value",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is not a Python keyword?",
+    "o": ["pass", "eval", "break", "with"],
+    "a": "eval",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of print(list(range(0, 5)))?",
+    "o": ["[0,1,2,3,4]", "[0,1,2,3,4,5]", "[1,2,3,4,5]", "Error"],
+    "a": "[0,1,2,3,4]",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these can be used to handle exceptions?",
+    "o": ["try/except", "for/while", "if/else", "switch/case"],
+    "a": "try/except",
+    "level": "Easy"
+  },
+  {
+    "q": "Which built-in function returns the largest item in an iterable?",
+    "o": ["max()", "min()", "largest()", "big()"],
+    "a": "max()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a Python tuple?",
+    "o": ["[1,2,3]", "(1,2,3)", "{1,2,3}", "{'1':1}"],
+    "a": "(1,2,3)",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of: print([i for i in range(3)])?",
+    "o": ["[0,1,2]", "[1,2,3]", "[0,1,2,3]", "Error"],
+    "a": "[0,1,2]",
+    "level": "Easy"
+  },
+  {
+    "q": "What is a Python generator?",
+    "o": ["A function that returns a list", "A function that returns an iterator", "A loop", "A variable type"],
+    "a": "A function that returns an iterator",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is correct to import the math module?",
+    "o": ["import maths", "import math", "include math", "using math"],
+    "a": "import math",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method adds an item to the end of a list?",
+    "o": [".append()", ".insert()", ".add()", ".extend()"],
+    "a": ".append()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which keyword is used for class inheritance?",
+    "o": ["extends", "inherits", "super", "class"],
+    "a": "super",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following will create a set in Python?",
+    "o": ["{}", "[]", "()", "set()"],
+    "a": "set()",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of: print(type(lambda x:x))?",
+    "o": ["function", "lambda", "<class 'function'>", "method"],
+    "a": "<class 'function'>",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the difference between list and array in Python?",
+    "o": ["Lists can store any data type, arrays are type-specific", "Both same", "Arrays are faster, lists slower", "Lists are immutable"],
+    "a": "Lists can store any data type, arrays are type-specific",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the output of: print(bool(0))?",
+    "o": ["True", "False", "0", "Error"],
+    "a": "False",
+    "level": "Easy"
+  },
+  {
+    "q": "Which function converts a number to a string?",
+    "o": ["str()", "int()", "float()", "string()"],
+    "a": "str()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which operator is used for floor division?",
+    "o": ["/", "//", "%", "**"],
+    "a": "//",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of print([1,2]+[3,4])?",
+    "o": ["[1,2,3,4]", "[1,2][3,4]", "[4,5]", "Error"],
+    "a": "[1,2,3,4]",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is a Python dictionary?",
+    "o": ["{'a':1}", "[1,2,3]", "(1,2,3)", "set()"],
+    "a": "{'a':1}",
+    "level": "Easy"
+  },
+  {
+    "q": "Which function removes the last item from a list?",
+    "o": [".pop()", ".remove()", ".delete()", ".discard()"],
+    "a": ".pop()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these converts a string to a list of characters?",
+    "o": [".split()", "list()", ".join()", "str()"],
+    "a": "list()",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the output of: print(5 == 5.0)?",
+    "o": ["True", "False", "Error", "0"],
+    "a": "True",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method removes all items from a list?",
+    "o": [".clear()", ".remove()", ".pop()", ".discard()"],
+    "a": ".clear()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used to create an iterator?",
+    "o": ["iter()", "next()", "range()", "generator()"],
+    "a": "iter()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which built-in function returns the sum of elements?",
+    "o": ["sum()", "add()", "total()", "aggregate()"],
+    "a": "sum()",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of: print(type([1,2,3]))?",
+    "o": ["list", "tuple", "array", "<class 'list'>"],
+    "a": "<class 'list'>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method counts occurrences of an element in a list?",
+    "o": [".count()", ".index()", ".find()", ".search()"],
+    "a": ".count()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these keywords is used for exception handling?",
+    "o": ["try", "catch", "except", "handle"],
+    "a": "try",
+    "level": "Easy"
+  }
+]

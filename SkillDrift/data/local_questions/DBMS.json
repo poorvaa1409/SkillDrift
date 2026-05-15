@@ -1,0 +1,218 @@
+[
+  {
+    "q": "What does DBMS stand for?",
+    "o": ["Database Management System", "Data Binary Management System", "Database Manual System", "Data Block Management System"],
+    "a": "Database Management System",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is a type of DBMS?",
+    "o": ["Hierarchical", "Network", "Relational", "All of the above"],
+    "a": "All of the above",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL command is used to retrieve data from a table?",
+    "o": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+    "a": "SELECT",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL command is used to remove all records from a table but keeps the table structure?",
+    "o": ["TRUNCATE", "DROP", "DELETE", "REMOVE"],
+    "a": "TRUNCATE",
+    "level": "Easy"
+  },
+  {
+    "q": "Which normal form ensures no partial dependency exists?",
+    "o": ["2NF", "1NF", "3NF", "BCNF"],
+    "a": "2NF",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which normal form ensures no transitive dependency exists?",
+    "o": ["3NF", "2NF", "1NF", "BCNF"],
+    "a": "3NF",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which key uniquely identifies a record in a table?",
+    "o": ["Primary Key", "Foreign Key", "Candidate Key", "Unique Key"],
+    "a": "Primary Key",
+    "level": "Easy"
+  },
+  {
+    "q": "Which key is used to link two tables?",
+    "o": ["Foreign Key", "Primary Key", "Candidate Key", "Unique Key"],
+    "a": "Foreign Key",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL clause is used to filter records?",
+    "o": ["WHERE", "FROM", "SELECT", "GROUP BY"],
+    "a": "WHERE",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL clause is used to arrange data in ascending or descending order?",
+    "o": ["ORDER BY", "GROUP BY", "HAVING", "SORT BY"],
+    "a": "ORDER BY",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL function counts the number of rows in a table?",
+    "o": ["COUNT()", "SUM()", "AVG()", "MAX()"],
+    "a": "COUNT()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL function returns the largest value of a column?",
+    "o": ["MAX()", "MIN()", "SUM()", "COUNT()"],
+    "a": "MAX()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL function returns the smallest value of a column?",
+    "o": ["MIN()", "MAX()", "SUM()", "COUNT()"],
+    "a": "MIN()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which type of relationship exists when multiple records in one table correspond to multiple records in another table?",
+    "o": ["Many-to-Many", "One-to-One", "One-to-Many", "Self-Referential"],
+    "a": "Many-to-Many",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which type of relationship exists when one record in a table corresponds to one record in another table?",
+    "o": ["One-to-One", "One-to-Many", "Many-to-Many", "Self-Referential"],
+    "a": "One-to-One",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which type of relationship exists when one record in a table corresponds to multiple records in another table?",
+    "o": ["One-to-Many", "One-to-One", "Many-to-Many", "Self-Referential"],
+    "a": "One-to-Many",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which SQL statement is used to modify existing records in a table?",
+    "o": ["UPDATE", "INSERT", "ALTER", "MODIFY"],
+    "a": "UPDATE",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL statement is used to remove a table completely?",
+    "o": ["DROP", "TRUNCATE", "DELETE", "REMOVE"],
+    "a": "DROP",
+    "level": "Easy"
+  },
+  {
+    "q": "Which SQL clause is used to group records based on a column?",
+    "o": ["GROUP BY", "ORDER BY", "HAVING", "WHERE"],
+    "a": "GROUP BY",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which SQL clause is used to filter groups?",
+    "o": ["HAVING", "WHERE", "GROUP BY", "ORDER BY"],
+    "a": "HAVING",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used to maintain data integrity?",
+    "o": ["Constraints", "Indexes", "Views", "Triggers"],
+    "a": "Constraints",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used to speed up data retrieval?",
+    "o": ["Index", "Trigger", "View", "Constraint"],
+    "a": "Index",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following ensures that a column cannot have NULL values?",
+    "o": ["NOT NULL Constraint", "PRIMARY KEY", "UNIQUE", "CHECK"],
+    "a": "NOT NULL Constraint",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which command is used to create a new table in SQL?",
+    "o": ["CREATE TABLE", "INSERT TABLE", "NEW TABLE", "ALTER TABLE"],
+    "a": "CREATE TABLE",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is used to automatically generate unique values for a column?",
+    "o": ["AUTO_INCREMENT / SEQUENCE", "PRIMARY KEY", "UNIQUE", "CHECK"],
+    "a": "AUTO_INCREMENT / SEQUENCE",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about a foreign key?",
+    "o": ["Enforces referential integrity", "Must be primary key in another table", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a weak entity?",
+    "o": ["Entity that cannot exist without another entity", "Entity with primary key", "Entity with unique attributes", "None"],
+    "a": "Entity that cannot exist without another entity",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is true about normalization?",
+    "o": ["Removes redundancy", "Avoids update anomalies", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which form of normalization is considered the minimal requirement for a relational database?",
+    "o": ["1NF", "2NF", "3NF", "BCNF"],
+    "a": "1NF",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used to automatically enforce actions when a table is updated?",
+    "o": ["Trigger", "Index", "View", "Constraint"],
+    "a": "Trigger",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is true about views in SQL?",
+    "o": ["Virtual table", "Does not store data physically", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following joins returns all records from the left table and matched records from the right table?",
+    "o": ["LEFT JOIN", "RIGHT JOIN", "INNER JOIN", "FULL OUTER JOIN"],
+    "a": "LEFT JOIN",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following joins returns only the matching records from both tables?",
+    "o": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL OUTER JOIN"],
+    "a": "INNER JOIN",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following joins returns all records from both tables?",
+    "o": ["FULL OUTER JOIN", "INNER JOIN", "LEFT JOIN", "RIGHT JOIN"],
+    "a": "FULL OUTER JOIN",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which SQL command is used to change the structure of an existing table?",
+    "o": ["ALTER TABLE", "UPDATE TABLE", "MODIFY TABLE", "CHANGE TABLE"],
+    "a": "ALTER TABLE",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about transactions in DBMS?",
+    "o": ["Ensure ACID properties", "Maintain consistency", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  }
+]

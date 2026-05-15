@@ -1,0 +1,224 @@
+[
+  {
+    "q": "What is Node.js primarily used for?",
+    "o": ["Server-side JavaScript runtime", "Frontend framework", "Database management", "CSS styling"],
+    "a": "Server-side JavaScript runtime",
+    "level": "Easy"
+  },
+  {
+    "q": "Which engine does Node.js use to run JavaScript?",
+    "o": ["V8", "SpiderMonkey", "Chakra", "JavaScriptCore"],
+    "a": "V8",
+    "level": "Easy"
+  },
+  {
+    "q": "Which module is used to handle file system operations in Node.js?",
+    "o": ["fs", "http", "path", "os"],
+    "a": "fs",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method is used to create a simple HTTP server in Node.js?",
+    "o": ["http.createServer()", "server.create()", "http.listen()", "server.start()"],
+    "a": "http.createServer()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which Node.js module helps to handle file paths?",
+    "o": ["path", "fs", "url", "events"],
+    "a": "path",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is an advantage of Node.js?",
+    "o": ["Non-blocking I/O", "Single-threaded", "Cross-platform", "All of the above"],
+    "a": "All of the above",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is npm in Node.js?",
+    "o": ["Node Package Manager", "Node Programming Module", "New Programming Method", "Node Performance Monitor"],
+    "a": "Node Package Manager",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about Node.js event loop?",
+    "o": ["Handles asynchronous callbacks", "Blocks execution", "Runs only once", "Manages CSS styles"],
+    "a": "Handles asynchronous callbacks",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which module in Node.js is used to handle events?",
+    "o": ["events", "fs", "http", "path"],
+    "a": "events",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which Node.js function reads a file asynchronously?",
+    "o": ["fs.readFile()", "fs.readFileSync()", "fs.open()", "fs.writeFile()"],
+    "a": "fs.readFile()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about callbacks in Node.js?",
+    "o": ["Functions passed as arguments", "Functions that return promises", "Modules for HTTP", "Stylesheets"], 
+    "a": "Functions passed as arguments",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which command installs a package using npm?",
+    "o": ["npm install package_name", "npm add package_name", "node install package_name", "node add package_name"],
+    "a": "npm install package_name",
+    "level": "Easy"
+  },
+  {
+    "q": "Which Node.js module is used for creating streams?",
+    "o": ["stream", "http", "url", "events"],
+    "a": "stream",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which Node.js module allows URL parsing?",
+    "o": ["url", "path", "http", "querystring"],
+    "a": "url",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which method is used to listen to an HTTP server in Node.js?",
+    "o": ["server.listen(port)", "http.listen(port)", "app.listen(port)", "server.start(port)"],
+    "a": "server.listen(port)",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about streams in Node.js?",
+    "o": ["Allow reading/writing data in chunks", "Store all data in memory", "Only used for files", "None"],
+    "a": "Allow reading/writing data in chunks",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which Node.js module helps in creating child processes?",
+    "o": ["child_process", "process", "cluster", "events"],
+    "a": "child_process",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about Node.js architecture?",
+    "o": ["Single-threaded", "Non-blocking I/O", "Event-driven", "All of the above"],
+    "a": "All of the above",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which module allows encryption in Node.js?",
+    "o": ["crypto", "fs", "http", "events"],
+    "a": "crypto",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following methods writes data asynchronously to a file?",
+    "o": ["fs.writeFile()", "fs.writeFileSync()", "fs.appendFileSync()", "fs.appendFileSync()"],
+    "a": "fs.writeFile()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which Node.js method exits the process?",
+    "o": ["process.exit()", "process.kill()", "process.end()", "process.stop()"],
+    "a": "process.exit()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about Node.js buffers?",
+    "o": ["Store binary data", "Store JSON objects", "Handle HTTP requests", "Render UI"], 
+    "a": "Store binary data",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used to manage multiple Node.js processes?",
+    "o": ["Cluster module", "Child process module", "Events module", "Stream module"],
+    "a": "Cluster module",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is true about asynchronous programming in Node.js?",
+    "o": ["Uses callbacks, promises, or async/await", "Blocks the thread", "Only used with HTTP", "Only used for files"],
+    "a": "Uses callbacks, promises, or async/await",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which Node.js module is used for path manipulations?",
+    "o": ["path", "url", "fs", "stream"],
+    "a": "path",
+    "level": "Easy"
+  },
+  {
+    "q": "Which Node.js module allows query string parsing?",
+    "o": ["querystring", "url", "http", "path"],
+    "a": "querystring",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which npm command initializes a new Node.js project?",
+    "o": ["npm init", "npm start", "npm install", "node init"],
+    "a": "npm init",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about Node.js non-blocking I/O?",
+    "o": ["Allows multiple operations concurrently", "Blocks the main thread", "Only works with databases", "Only works with files"], 
+    "a": "Allows multiple operations concurrently",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following correctly imports the fs module?",
+    "o": ["const fs = require('fs')", "import fs from 'fs'", "const fs = import('fs')", "fs = require('fs')"],
+    "a": "const fs = require('fs')",
+    "level": "Easy"
+  },
+  {
+    "q": "Which Node.js module is used to handle HTTP cookies?",
+    "o": ["cookie", "http", "fs", "crypto"],
+    "a": "cookie",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is used to make HTTP requests in Node.js?",
+    "o": ["http module", "fs module", "path module", "crypto module"],
+    "a": "http module",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method in Node.js is used to append data to a file asynchronously?",
+    "o": ["fs.appendFile()", "fs.writeFile()", "fs.writeFileSync()", "fs.appendFileSync()"],
+    "a": "fs.appendFile()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which module allows creation of TCP servers in Node.js?",
+    "o": ["net", "http", "stream", "events"],
+    "a": "net",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about Node.js error-first callback?",
+    "o": ["First argument is error object", "Second argument is data", "Used in asynchronous operations", "All of the above"],
+    "a": "All of the above",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which module is used for compression in Node.js?",
+    "o": ["zlib", "fs", "http", "stream"],
+    "a": "zlib",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which module allows inspection of process and environment variables?",
+    "o": ["process", "os", "fs", "events"],
+    "a": "process",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about Node.js package.json file?",
+    "o": ["Contains project metadata and dependencies", "Contains CSS styles", "Handles HTTP requests", "Stores database records"],
+    "a": "Contains project metadata and dependencies",
+    "level": "Easy"
+  }
+]

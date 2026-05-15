@@ -1,0 +1,236 @@
+[
+  {
+    "q": "What does HTML stand for?",
+    "o": ["HyperText Markup Language", "HighText Machine Language", "Hyperlink Text Markup Language", "Home Tool Markup Language"],
+    "a": "HyperText Markup Language",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used for the largest heading in HTML?",
+    "o": ["<h1>", "<h6>", "<head>", "<header>"],
+    "a": "<h1>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which HTML tag is used for inserting a line break?",
+    "o": ["<br>", "<hr>", "<break>", "<lb>"],
+    "a": "<br>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which attribute is used to provide an alternate text for an image?",
+    "o": ["alt", "title", "src", "href"],
+    "a": "alt",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to define an unordered list?",
+    "o": ["<ul>", "<ol>", "<li>", "<list>"],
+    "a": "<ul>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag defines a hyperlink?",
+    "o": ["<a>", "<link>", "<href>", "<hyper>"],
+    "a": "<a>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used for defining a table row?",
+    "o": ["<tr>", "<td>", "<th>", "<table>"],
+    "a": "<tr>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to define table headers?",
+    "o": ["<th>", "<tr>", "<td>", "<thead>"],
+    "a": "<th>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which HTML element is used to define important text?",
+    "o": ["<strong>", "<b>", "<em>", "<i>"],
+    "a": "<strong>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which HTML element is used to define emphasized text?",
+    "o": ["<em>", "<i>", "<b>", "<strong>"],
+    "a": "<em>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which attribute specifies the URL of a linked page in the <a> tag?",
+    "o": ["href", "src", "link", "url"],
+    "a": "href",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used for creating an ordered list?",
+    "o": ["<ol>", "<ul>", "<li>", "<list>"],
+    "a": "<ol>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to insert a horizontal line?",
+    "o": ["<hr>", "<br>", "<line>", "<hl>"],
+    "a": "<hr>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which attribute defines inline CSS styles for an element?",
+    "o": ["style", "class", "id", "css"],
+    "a": "style",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to define the footer of a webpage?",
+    "o": ["<footer>", "<bottom>", "<section>", "<foot>"],
+    "a": "<footer>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to define a section in HTML5?",
+    "o": ["<section>", "<div>", "<article>", "<span>"],
+    "a": "<section>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to define a navigation menu?",
+    "o": ["<nav>", "<menu>", "<ul>", "<header>"],
+    "a": "<nav>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which attribute is used to specify the target window for a hyperlink?",
+    "o": ["target", "href", "src", "rel"],
+    "a": "target",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used for inserting an image?",
+    "o": ["<img>", "<image>", "<src>", "<picture>"],
+    "a": "<img>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to group inline elements?",
+    "o": ["<span>", "<div>", "<section>", "<p>"],
+    "a": "<span>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which HTML element is used to define a clickable button?",
+    "o": ["<button>", "<input type='button'>", "<a>", "<div>"],
+    "a": "<button>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which input type is used for submitting form data?",
+    "o": ["submit", "text", "button", "reset"],
+    "a": "submit",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to define a table cell?",
+    "o": ["<td>", "<tr>", "<th>", "<table>"],
+    "a": "<td>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to define the document’s title that appears in the browser tab?",
+    "o": ["<title>", "<head>", "<meta>", "<h1>"],
+    "a": "<title>",
+    "level": "Easy"
+  },
+  {
+    "q": "Which attribute is used to provide an identifier for an element?",
+    "o": ["id", "class", "name", "type"],
+    "a": "id",
+    "level": "Easy"
+  },
+  {
+    "q": "Which attribute is used to provide CSS class names to an element?",
+    "o": ["class", "id", "style", "type"],
+    "a": "class",
+    "level": "Easy"
+  },
+  {
+    "q": "Which tag is used to define a client-side script?",
+    "o": ["<script>", "<code>", "<js>", "<program>"],
+    "a": "<script>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to define an article?",
+    "o": ["<article>", "<section>", "<div>", "<aside>"],
+    "a": "<article>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used for defining aside content, like a sidebar?",
+    "o": ["<aside>", "<section>", "<div>", "<footer>"],
+    "a": "<aside>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used for embedding a video in HTML5?",
+    "o": ["<video>", "<embed>", "<media>", "<iframe>"],
+    "a": "<video>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to embed audio in HTML5?",
+    "o": ["<audio>", "<sound>", "<music>", "<media>"],
+    "a": "<audio>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to define a caption for a table?",
+    "o": ["<caption>", "<title>", "<thead>", "<tfoot>"],
+    "a": "<caption>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which HTML element is used to create a dropdown list?",
+    "o": ["<select>", "<option>", "<input>", "<list>"],
+    "a": "<select>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to define options inside a dropdown list?",
+    "o": ["<option>", "<select>", "<input>", "<choice>"],
+    "a": "<option>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to define metadata about the HTML document?",
+    "o": ["<meta>", "<head>", "<title>", "<link>"],
+    "a": "<meta>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which tag is used to link an external CSS file?",
+    "o": ["<link>", "<style>", "<css>", "<script>"],
+    "a": "<link>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which HTML5 element is used to define the main content of a document?",
+    "o": ["<main>", "<body>", "<section>", "<div>"],
+    "a": "<main>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which HTML tag is used for marking text as deleted?",
+    "o": ["<del>", "<strike>", "<s>", "<span>"],
+    "a": "<del>",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which HTML tag is used for marking inserted text?",
+    "o": ["<ins>", "<add>", "<mark>", "<span>"],
+    "a": "<ins>",
+    "level": "Moderate"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "q": "What is the mean of the data set: 4, 8, 6, 5, 3?",
+    "o": ["5.2", "6", "5", "4.5"],
+    "a": "5.2",
+    "level": "Easy"
+  },
+  {
+    "q": "Which measure represents the spread of data?",
+    "o": ["Variance", "Mean", "Mode", "Median"],
+    "a": "Variance",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the median of 7, 3, 9, 5, 2?",
+    "o": ["5", "4", "3", "6"],
+    "a": "5",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is a continuous random variable?",
+    "o": ["Height of students", "Number of books", "Dice outcome", "Number of cars"],
+    "a": "Height of students",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which distribution is symmetric and bell-shaped?",
+    "o": ["Normal distribution", "Poisson distribution", "Binomial distribution", "Exponential distribution"],
+    "a": "Normal distribution",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the probability of getting a head in a single coin toss?",
+    "o": ["0.5", "0.25", "0.75", "1"],
+    "a": "0.5",
+    "level": "Easy"
+  },
+  {
+    "q": "Which test is used to compare means of two independent samples?",
+    "o": ["t-test", "Chi-square test", "ANOVA", "Z-test"],
+    "a": "t-test",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which statistic measures relative variability?",
+    "o": ["Coefficient of variation", "Range", "Variance", "Mean"],
+    "a": "Coefficient of variation",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a discrete probability distribution?",
+    "o": ["Binomial", "Normal", "Exponential", "Uniform continuous"],
+    "a": "Binomial",
+    "level": "Easy"
+  },
+  {
+    "q": "If the correlation coefficient is -0.8, what does it indicate?",
+    "o": ["Strong negative correlation", "Weak positive correlation", "No correlation", "Perfect positive correlation"],
+    "a": "Strong negative correlation",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which measure is most affected by outliers?",
+    "o": ["Mean", "Median", "Mode", "Variance"],
+    "a": "Mean",
+    "level": "Moderate"
+  },
+  {
+    "q": "In hypothesis testing, what is a Type I error?",
+    "o": ["Rejecting a true null hypothesis", "Failing to reject a false null hypothesis", "Accepting a false hypothesis", "Accepting a true hypothesis"],
+    "a": "Rejecting a true null hypothesis",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is used to test independence of categorical variables?",
+    "o": ["Chi-square test", "t-test", "ANOVA", "Z-test"],
+    "a": "Chi-square test",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the range of correlation coefficient?",
+    "o": ["-1 to 1", "0 to 1", "-0.5 to 0.5", "-∞ to ∞"],
+    "a": "-1 to 1",
+    "level": "Easy"
+  },
+  {
+    "q": "Which is a measure of central tendency for qualitative data?",
+    "o": ["Mode", "Mean", "Median", "Variance"],
+    "a": "Mode",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the variance of the data: 2, 4, 6, 8?",
+    "o": ["5", "4", "6", "3.5"],
+    "a": "5",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which sampling method gives every element equal chance?",
+    "o": ["Simple random sampling", "Stratified sampling", "Cluster sampling", "Systematic sampling"],
+    "a": "Simple random sampling",
+    "level": "Easy"
+  },
+  {
+    "q": "If P(A) = 0.3 and P(B) = 0.5, and A and B are independent, P(A∩B) = ?",
+    "o": ["0.15", "0.8", "0.2", "0.3"],
+    "a": "0.15",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which distribution models number of events in fixed interval of time?",
+    "o": ["Poisson distribution", "Normal distribution", "Binomial distribution", "Uniform distribution"],
+    "a": "Poisson distribution",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the standard deviation of 5, 7, 9, 11?",
+    "o": ["2.58", "2", "1.5", "3"],
+    "a": "2.58",
+    "level": "Moderate"
+  },
+  {
+    "q": "In ANOVA, what does F-statistic test?",
+    "o": ["Equality of means across groups", "Equality of variances", "Independence", "Normality"],
+    "a": "Equality of means across groups",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which is a non-parametric test?",
+    "o": ["Mann-Whitney U test", "t-test", "ANOVA", "Z-test"],
+    "a": "Mann-Whitney U test",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which probability distribution is used for binary outcomes?",
+    "o": ["Binomial", "Poisson", "Normal", "Exponential"],
+    "a": "Binomial",
+    "level": "Easy"
+  },
+  {
+    "q": "What does a p-value indicate?",
+    "o": ["Probability of observing data if null hypothesis is true", "Probability that null is false", "Effect size", "Variance"],
+    "a": "Probability of observing data if null hypothesis is true",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following measures skewness?",
+    "o": ["Asymmetry of distribution", "Central tendency", "Dispersion", "Correlation"],
+    "a": "Asymmetry of distribution",
+    "level": "Moderate"
+  },
+  {
+    "q": "If Z = (X - μ)/σ, what does Z represent?",
+    "o": ["Standard score", "Mean", "Variance", "Probability"],
+    "a": "Standard score",
+    "level": "Easy"
+  },
+  {
+    "q": "Which measure is least affected by outliers?",
+    "o": ["Median", "Mean", "Mode", "Variance"],
+    "a": "Median",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which distribution is used for modeling waiting time between Poisson events?",
+    "o": ["Exponential distribution", "Normal distribution", "Binomial distribution", "Uniform distribution"],
+    "a": "Exponential distribution",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the sum of probabilities for all events in sample space?",
+    "o": ["1", "0", "Depends on events", "∞"],
+    "a": "1",
+    "level": "Easy"
+  },
+  {
+    "q": "Which is the measure of peakness of a distribution?",
+    "o": ["Kurtosis", "Skewness", "Mean", "Variance"],
+    "a": "Kurtosis",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which method estimates parameters by maximizing likelihood function?",
+    "o": ["Maximum likelihood estimation", "Method of moments", "Least squares", "Bayes' theorem"],
+    "a": "Maximum likelihood estimation",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which test checks goodness-of-fit for categorical data?",
+    "o": ["Chi-square test", "t-test", "ANOVA", "F-test"],
+    "a": "Chi-square test",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which sampling reduces variability by grouping similar elements?",
+    "o": ["Stratified sampling", "Simple random", "Cluster sampling", "Systematic sampling"],
+    "a": "Stratified sampling",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which distribution is used when n is large and p is small for rare events?",
+    "o": ["Poisson approximation to binomial", "Normal", "Uniform", "Exponential"],
+    "a": "Poisson approximation to binomial",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which method is used to estimate population mean from sample mean?",
+    "o": ["Confidence interval", "Regression", "Hypothesis test", "Chi-square test"],
+    "a": "Confidence interval",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which test compares means among three or more groups?",
+    "o": ["ANOVA", "t-test", "Z-test", "Chi-square test"],
+    "a": "ANOVA",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which measure summarizes probability distribution by its average outcome?",
+    "o": ["Expected value", "Variance", "Median", "Mode"],
+    "a": "Expected value",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method adjusts p-values when multiple comparisons are made?",
+    "o": ["Bonferroni correction", "Z-test", "t-test", "ANOVA"],
+    "a": "Bonferroni correction",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which distribution is appropriate for proportion data?",
+    "o": ["Binomial distribution", "Normal distribution", "Poisson distribution", "Uniform distribution"],
+    "a": "Binomial distribution",
+    "level": "Moderate"
+  }
+]

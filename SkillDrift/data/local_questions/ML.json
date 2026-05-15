@@ -1,0 +1,224 @@
+[
+  {
+    "q": "What is the main goal of supervised learning?",
+    "o": ["Predict outcomes based on labeled data", "Group data without labels", "Reduce dimensionality", "Generate random samples"],
+    "a": "Predict outcomes based on labeled data",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is a commonly used supervised learning algorithm?",
+    "o": ["Linear Regression", "K-Means", "PCA", "DBSCAN"],
+    "a": "Linear Regression",
+    "level": "Easy"
+  },
+  {
+    "q": "Which metric is used to evaluate regression models?",
+    "o": ["Mean Squared Error", "Accuracy", "Silhouette Score", "F1-Score"],
+    "a": "Mean Squared Error",
+    "level": "Easy"
+  },
+  {
+    "q": "Which metric is commonly used to evaluate classification models?",
+    "o": ["Accuracy", "Variance", "Covariance", "Mean Squared Error"],
+    "a": "Accuracy",
+    "level": "Easy"
+  },
+  {
+    "q": "What does overfitting mean in machine learning?",
+    "o": ["Model performs well on training but poorly on test data", "Model performs poorly on all data", "Model ignores training data", "Model is too simple"],
+    "a": "Model performs well on training but poorly on test data",
+    "level": "Easy"
+  },
+  {
+    "q": "Which technique helps reduce overfitting?",
+    "o": ["Regularization", "Normalization", "Feature scaling", "PCA"],
+    "a": "Regularization",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a classification algorithm?",
+    "o": ["Logistic Regression", "Linear Regression", "K-Means", "PCA"],
+    "a": "Logistic Regression",
+    "level": "Easy"
+  },
+  {
+    "q": "What does PCA (Principal Component Analysis) do?",
+    "o": ["Reduces dimensionality of data", "Increases model complexity", "Generates random features", "Clusters data points"],
+    "a": "Reduces dimensionality of data",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a distance-based algorithm?",
+    "o": ["K-Nearest Neighbors", "Decision Tree", "Naive Bayes", "Linear Regression"],
+    "a": "K-Nearest Neighbors",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the purpose of the train-test split?",
+    "o": ["Evaluate model performance on unseen data", "Reduce model complexity", "Normalize the data", "Increase training size"],
+    "a": "Evaluate model performance on unseen data",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is an ensemble learning method?",
+    "o": ["Random Forest", "Linear Regression", "K-Means", "PCA"],
+    "a": "Random Forest",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is a confusion matrix?",
+    "o": ["Table showing predicted vs actual classes", "Table showing feature correlations", "Matrix used in PCA", "Matrix used for scaling data"],
+    "a": "Table showing predicted vs actual classes",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a loss function used in classification?",
+    "o": ["Cross-Entropy Loss", "Mean Squared Error", "Euclidean Distance", "Hinge Distance"],
+    "a": "Cross-Entropy Loss",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about unsupervised learning?",
+    "o": ["Data has no labels", "Used for clustering and dimensionality reduction", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Easy"
+  },
+  {
+    "q": "Which algorithm is used for clustering?",
+    "o": ["K-Means", "Logistic Regression", "Linear Regression", "Decision Tree"],
+    "a": "K-Means",
+    "level": "Easy"
+  },
+  {
+    "q": "Which technique is used to avoid overfitting in neural networks?",
+    "o": ["Dropout", "PCA", "Normalization", "Cross-Validation"],
+    "a": "Dropout",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is a hyperparameter in machine learning?",
+    "o": ["Learning rate", "Weights", "Biases", "Predictions"],
+    "a": "Learning rate",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which activation function outputs values between 0 and 1?",
+    "o": ["Sigmoid", "ReLU", "Tanh", "Softmax"],
+    "a": "Sigmoid",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used for multi-class classification?",
+    "o": ["Softmax", "Sigmoid", "Linear", "ReLU"],
+    "a": "Softmax",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is gradient descent used for?",
+    "o": ["Optimize model parameters to minimize loss", "Normalize features", "Reduce dimensionality", "Cluster data points"],
+    "a": "Optimize model parameters to minimize loss",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which regularization technique adds L1 penalty?",
+    "o": ["Lasso Regression", "Ridge Regression", "Elastic Net", "Dropout"],
+    "a": "Lasso Regression",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which regularization technique adds L2 penalty?",
+    "o": ["Ridge Regression", "Lasso Regression", "Elastic Net", "Dropout"],
+    "a": "Ridge Regression",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which algorithm is prone to the curse of dimensionality?",
+    "o": ["K-Nearest Neighbors", "Linear Regression", "Decision Tree", "Naive Bayes"],
+    "a": "K-Nearest Neighbors",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which evaluation metric is suitable for imbalanced datasets?",
+    "o": ["F1-Score", "Accuracy", "Mean Squared Error", "Euclidean Distance"],
+    "a": "F1-Score",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about bias-variance tradeoff?",
+    "o": ["High bias leads to underfitting", "High variance leads to overfitting", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about Naive Bayes?",
+    "o": ["Assumes feature independence", "Used for classification", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is true about decision trees?",
+    "o": ["Can handle both numerical and categorical data", "Used for regression and classification", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about ensemble methods?",
+    "o": ["Combine multiple models to improve performance", "Include bagging and boosting", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about Random Forest?",
+    "o": ["Ensemble of decision trees", "Uses bagging technique", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about support vector machines?",
+    "o": ["Finds hyperplane to separate classes", "Can use kernels for non-linear separation", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about K-Means?",
+    "o": ["Unsupervised clustering algorithm", "Requires number of clusters 'k'", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about neural networks?",
+    "o": ["Consist of layers of neurons", "Used for deep learning tasks", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about overfitting prevention in ML?",
+    "o": ["Use more data", "Use regularization", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about cross-validation?",
+    "o": ["Used to estimate model performance", "Helps avoid overfitting", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these activation functions can output negative values?",
+    "o": ["Tanh", "Sigmoid", "Softmax", "ReLU (original)"],
+    "a": "Tanh",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about unsupervised anomaly detection?",
+    "o": ["Detects unusual patterns without labeled data", "Can use clustering or statistical methods", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about gradient boosting?",
+    "o": ["Sequentially builds models to reduce errors", "Used in ensemble learning", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  }
+]

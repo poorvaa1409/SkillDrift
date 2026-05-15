@@ -1,0 +1,212 @@
+[
+  {
+    "q": "Which of the following is the correct syntax to declare an integer variable in C?",
+    "o": ["int x;", "integer x;", "var x;", "num x;"],
+    "a": "int x;",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is the correct way to write a comment in C?",
+    "o": ["// This is a comment", "/* This is a comment */", "# This is a comment", "Both 1 and 2"],
+    "a": "Both 1 and 2",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of printf(\"%d\", 5 + 3 * 2)?",
+    "o": ["16", "11", "13", "10"],
+    "a": "11",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which operator is used to get the remainder in C?",
+    "o": ["%", "&", "/", "*"],
+    "a": "%",
+    "level": "Easy"
+  },
+  {
+    "q": "Which header file is needed for printf() and scanf() functions?",
+    "o": ["<stdio.h>", "<conio.h>", "<stdlib.h>", "<math.h>"],
+    "a": "<stdio.h>",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the correct syntax to create a pointer variable in C?",
+    "o": ["int *p;", "int p*;", "int &p;", "pointer int p;"],
+    "a": "int *p;",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is the loop that executes at least once even if the condition is false?",
+    "o": ["for", "while", "do-while", "None of the above"],
+    "a": "do-while",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the output of the following code?\nint x = 10;\nprintf(\"%d\", x++);",
+    "o": ["11", "10", "Error", "Depends on compiler"],
+    "a": "10",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is not a valid C keyword?",
+    "o": ["switch", "then", "while", "for"],
+    "a": "then",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the size of int data type in most 32-bit compilers?",
+    "o": ["2 bytes", "4 bytes", "8 bytes", "Depends on system"],
+    "a": "4 bytes",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these operators has the highest precedence in C?",
+    "o": ["*", "+", "-", "%"],
+    "a": "*",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which function is used to allocate memory dynamically?",
+    "o": ["malloc()", "calloc()", "Both malloc() and calloc()", "alloc()"],
+    "a": "Both malloc() and calloc()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used to terminate a program in C?",
+    "o": ["exit()", "stop()", "terminate()", "end()"],
+    "a": "exit()",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of printf(\"%c\", 65)?",
+    "o": ["A", "65", "Error", "a"],
+    "a": "A",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is correct about arrays in C?",
+    "o": ["Array size must be constant", "Array size can be dynamic in C99", "Array indexing starts from 0", "All of the above"],
+    "a": "All of the above",
+    "level": "Moderate"
+  },
+  {
+    "q": "What will be the output of the following code?\nint a = 5;\nint b = ++a;\nprintf(\"%d\", b);",
+    "o": ["5", "6", "Error", "Undefined"],
+    "a": "6",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is used for conditional branching in C?",
+    "o": ["if", "switch", "Both if and switch", "goto"],
+    "a": "Both if and switch",
+    "level": "Easy"
+  },
+  {
+    "q": "Which operator is used to access a value at the address stored in a pointer?",
+    "o": ["*", "&", "%", "->"],
+    "a": "*",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the result of logical AND operation 1 && 0 in C?",
+    "o": ["1", "0", "-1", "Depends on compiler"],
+    "a": "0",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is correct about the main() function in C?",
+    "o": ["It must return int", "It can return void", "It must accept arguments", "None of the above"],
+    "a": "It must return int",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the output of printf(\"%f\", 5/2)?",
+    "o": ["2", "2.0", "2.500000", "2.5"],
+    "a": "2.500000",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following statements about functions in C is true?",
+    "o": ["Functions must be declared before use", "Functions can return multiple values", "Functions cannot have parameters", "All of the above"],
+    "a": "Functions must be declared before use",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is the correct syntax to declare a 2D array?",
+    "o": ["int arr[3][4];", "int arr[4,3];", "int arr[][];", "array int arr[3][4];"],
+    "a": "int arr[3][4];",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these keywords is used to define a structure in C?",
+    "o": ["struct", "structure", "record", "class"],
+    "a": "struct",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is used to free dynamically allocated memory?",
+    "o": ["free()", "delete()", "remove()", "dealloc()"],
+    "a": "free()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a correct declaration of a pointer to integer?",
+    "o": ["int *ptr;", "int ptr*;", "pointer int ptr;", "int &ptr;"],
+    "a": "int *ptr;",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which function reads a string from the console until whitespace?",
+    "o": ["scanf()", "gets()", "fgets()", "read()"],
+    "a": "scanf()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about recursion in C?",
+    "o": ["A function can call itself", "Recursion can lead to stack overflow", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is used for bitwise OR operation?",
+    "o": ["|", "&", "^", "~"],
+    "a": "|",
+    "level": "Moderate"
+  },
+  {
+    "q": "What will be the output of the following code?\nint x=5;\nif(x=0) printf(\"Zero\"); else printf(\"Non-zero\");",
+    "o": ["Zero", "Non-zero", "Error", "Undefined"],
+    "a": "Non-zero",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is true about C constants?",
+    "o": ["Constants cannot be changed after declaration", "Constants can be changed", "Constants are same as variables", "None"],
+    "a": "Constants cannot be changed after declaration",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is correct about enum in C?",
+    "o": ["Enum defines a set of named integer constants", "Enum defines floating numbers", "Enum is same as array", "None"],
+    "a": "Enum defines a set of named integer constants",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these functions can read a single character from console without echoing it?",
+    "o": ["getch()", "getchar()", "scanf()", "gets()"],
+    "a": "getch()",
+    "level": "Difficult"
+  },
+  {
+    "q": "What is the output of the following code?\nint a = 10;\nprintf(\"%d\", a>>1);",
+    "o": ["5", "10", "20", "Error"],
+    "a": "5",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is true about void pointers in C?",
+    "o": ["Can point to any data type", "Cannot be dereferenced directly", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  }
+]

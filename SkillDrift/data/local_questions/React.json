@@ -1,0 +1,212 @@
+[
+  {
+    "q": "What is React primarily used for?",
+    "o": ["Building user interfaces", "Database management", "Server-side scripting", "Data analysis"],
+    "a": "Building user interfaces",
+    "level": "Easy"
+  },
+  {
+    "q": "Which company developed React?",
+    "o": ["Facebook", "Google", "Microsoft", "Apple"],
+    "a": "Facebook",
+    "level": "Easy"
+  },
+  {
+    "q": "What is JSX in React?",
+    "o": ["A syntax extension to JavaScript", "A CSS framework", "A database query language", "A React lifecycle method"],
+    "a": "A syntax extension to JavaScript",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method is used to render React components to the DOM?",
+    "o": ["ReactDOM.render()", "renderDOM()", "React.render()", "DOM.render()"],
+    "a": "ReactDOM.render()",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the purpose of keys in React lists?",
+    "o": ["To uniquely identify elements", "To style elements", "To sort elements", "To bind events"],
+    "a": "To uniquely identify elements",
+    "level": "Easy"
+  },
+  {
+    "q": "Which React hook is used for adding state to functional components?",
+    "o": ["useState", "useEffect", "useRef", "useContext"],
+    "a": "useState",
+    "level": "Easy"
+  },
+  {
+    "q": "Which React hook is used to perform side effects?",
+    "o": ["useEffect", "useState", "useMemo", "useReducer"],
+    "a": "useEffect",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which hook allows you to reference a DOM element directly?",
+    "o": ["useRef", "useState", "useEffect", "useContext"],
+    "a": "useRef",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the virtual DOM?",
+    "o": ["A lightweight copy of the real DOM", "A database of components", "A CSS rendering engine", "A browser API"],
+    "a": "A lightweight copy of the real DOM",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is a React lifecycle method for class components?",
+    "o": ["componentDidMount", "useState", "useEffect", "renderList"],
+    "a": "componentDidMount",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which function updates state in class-based React components?",
+    "o": ["this.setState()", "this.updateState()", "setState()", "updateState()"],
+    "a": "this.setState()",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the purpose of React Router?",
+    "o": ["To manage navigation and routes", "To style components", "To manage state", "To optimize performance"],
+    "a": "To manage navigation and routes",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is used for context-based state management?",
+    "o": ["React Context API", "Redux", "useState", "useReducer"],
+    "a": "React Context API",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is a Higher-Order Component (HOC) in React?",
+    "o": ["A function that takes a component and returns a new component", "A component with state", "A hook", "A router component"],
+    "a": "A function that takes a component and returns a new component",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which library is commonly used with React for global state management?",
+    "o": ["Redux", "Lodash", "Axios", "Bootstrap"],
+    "a": "Redux",
+    "level": "Moderate"
+  },
+  {
+    "q": "What does the useReducer hook return?",
+    "o": ["State and dispatch function", "Only state", "Only dispatch", "None"],
+    "a": "State and dispatch function",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which hook is used to memoize expensive computations?",
+    "o": ["useMemo", "useEffect", "useState", "useCallback"],
+    "a": "useMemo",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which hook is used to memoize a function definition?",
+    "o": ["useCallback", "useMemo", "useEffect", "useState"],
+    "a": "useCallback",
+    "level": "Difficult"
+  },
+  {
+    "q": "What is the default behavior of form submission in React?",
+    "o": ["Page reload", "AJAX submission", "No action", "Console log"],
+    "a": "Page reload",
+    "level": "Easy"
+  },
+  {
+    "q": "Which attribute is used in JSX to apply CSS classes?",
+    "o": ["className", "class", "style", "css"],
+    "a": "className",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method should be avoided for direct DOM manipulation in React?",
+    "o": ["document.getElementById()", "useRef", "useState", "ReactDOM.render()"],
+    "a": "document.getElementById()",
+    "level": "Moderate"
+  },
+  {
+    "q": "What is the purpose of shouldComponentUpdate in class components?",
+    "o": ["Optimize re-rendering", "Manage state", "Handle events", "Render JSX"],
+    "a": "Optimize re-rendering",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which React hook allows you to share state logic between components without render props or HOC?",
+    "o": ["Custom Hooks", "useEffect", "useState", "Context API"],
+    "a": "Custom Hooks",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is true about keys in React lists?",
+    "o": ["They help React identify which items changed", "They style elements", "They trigger useEffect", "They are optional and ignored"],
+    "a": "They help React identify which items changed",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which lifecycle method is called before the component is removed from the DOM?",
+    "o": ["componentWillUnmount", "componentDidMount", "componentDidUpdate", "render"],
+    "a": "componentWillUnmount",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which attribute in JSX represents event handlers like onClick?",
+    "o": ["CamelCase syntax (onClick)", "Lowercase syntax (onclick)", "Uppercase syntax (OnClick)", "PascalCase syntax (Onclick)"],
+    "a": "CamelCase syntax (onClick)",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which method is used to force a re-render in class components?",
+    "o": ["forceUpdate()", "setState()", "render()", "update()"],
+    "a": "forceUpdate()",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which hook is used to share values between deeply nested components?",
+    "o": ["useContext", "useState", "useEffect", "useReducer"],
+    "a": "useContext",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which feature allows React to update only parts of the DOM that changed?",
+    "o": ["Virtual DOM", "Shadow DOM", "Real DOM", "Document Fragment"],
+    "a": "Virtual DOM",
+    "level": "Easy"
+  },
+  {
+    "q": "Which JSX expression is used to embed JavaScript code?",
+    "o": ["Curly braces {}", "Square brackets []", "Parentheses ()", "Angle brackets <>"],
+    "a": "Curly braces {}",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the advantage of functional components over class components?",
+    "o": ["Simpler syntax and hooks support", "Faster compilation", "Supports lifecycle methods", "No advantage"],
+    "a": "Simpler syntax and hooks support",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about controlled components?",
+    "o": ["Component state drives input value", "Input value drives state", "No relation to state", "Used only in class components"],
+    "a": "Component state drives input value",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which hook can be used to optimize expensive component re-renders by memoizing the component?",
+    "o": ["React.memo", "useMemo", "useCallback", "useState"],
+    "a": "React.memo",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following is NOT a valid reason to use hooks?",
+    "o": ["To use state and lifecycle features in functional components", "To reuse stateful logic", "To convert functional components into classes", "To organize logic by feature"],
+    "a": "To convert functional components into classes",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of the following correctly creates a React component using a function?",
+    "o": ["function MyComponent() { return <div>Hello</div>; }", "class MyComponent extends React { ... }", "component MyComponent() { ... }", "React.createComponent()"],
+    "a": "function MyComponent() { return <div>Hello</div>; }",
+    "level": "Easy"
+  }
+]

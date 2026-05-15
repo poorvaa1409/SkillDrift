@@ -1,0 +1,218 @@
+[
+  {
+    "q": "Which of the following is the correct way to declare an integer variable in Java?",
+    "o": ["int x;", "integer x;", "var x;", "num x;"],
+    "a": "int x;",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is the correct way to write a single-line comment in Java?",
+    "o": ["// This is a comment", "/* This is a comment */", "# This is a comment", "<!-- comment -->"],
+    "a": "// This is a comment",
+    "level": "Easy"
+  },
+  {
+    "q": "What is the size of an int data type in Java?",
+    "o": ["2 bytes", "4 bytes", "8 bytes", "Depends on JVM"],
+    "a": "4 bytes",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is a Java keyword?",
+    "o": ["class", "function", "def", "var"],
+    "a": "class",
+    "level": "Easy"
+  },
+  {
+    "q": "Which method is the entry point of a Java program?",
+    "o": ["main()", "start()", "init()", "run()"],
+    "a": "main()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is used for inheritance in Java?",
+    "o": ["extends", "implements", "inherits", "interface"],
+    "a": "extends",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used to handle exceptions in Java?",
+    "o": ["try/catch", "try/except", "error handling", "catch/except"],
+    "a": "try/catch",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about Java interfaces?",
+    "o": ["Interfaces cannot have method bodies (pre-Java 8)", "Interfaces can have multiple inheritance", "Both statements are correct", "None of the above"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which keyword is used to define a constant in Java?",
+    "o": ["final", "const", "static", "immutable"],
+    "a": "final",
+    "level": "Easy"
+  },
+  {
+    "q": "Which operator is used for logical AND in Java?",
+    "o": ["&&", "&", "and", "||"],
+    "a": "&&",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about Java Strings?",
+    "o": ["Strings are immutable", "Strings can be modified directly", "Strings are primitive data type", "Strings cannot be concatenated"],
+    "a": "Strings are immutable",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is used to perform integer division in Java?",
+    "o": ["/", "%", "div", "quot"],
+    "a": "/",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following converts a String to integer in Java?",
+    "o": ["Integer.parseInt()", "Integer.toInt()", "String.toInt()", "parseInt()"],
+    "a": "Integer.parseInt()",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these can be used to declare an array in Java?",
+    "o": ["int[] arr;", "int arr[];", "Both 1 and 2", "array int arr;"],
+    "a": "Both 1 and 2",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which keyword is used to inherit a class in Java?",
+    "o": ["extends", "implements", "inherits", "interface"],
+    "a": "extends",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used to declare an abstract class in Java?",
+    "o": ["abstract class", "interface", "class abstract", "virtual class"],
+    "a": "abstract class",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about Java constructors?",
+    "o": ["Constructor has same name as class", "Constructor cannot have return type", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these operators is used for bitwise OR in Java?",
+    "o": ["|", "&", "^", "~"],
+    "a": "|",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about Java methods?",
+    "o": ["Methods must have return type", "Methods can be static or instance", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is used to create a thread in Java?",
+    "o": ["Implement Runnable interface", "Extend Thread class", "Both 1 and 2", "None"],
+    "a": "Both 1 and 2",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is correct syntax for a switch statement in Java?",
+    "o": ["switch(expression) { case 1: ... break; }", "switch { case 1: ... }", "switch(expression) [ case 1: ... ]", "switch-case(expression) {...}"],
+    "a": "switch(expression) { case 1: ... break; }",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used to read input from user in Java?",
+    "o": ["Scanner class", "BufferedReader", "Both 1 and 2", "InputReader class"],
+    "a": "Both 1 and 2",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these statements is true about Java arrays?",
+    "o": ["Array indices start at 0", "Arrays can hold multiple data types", "Arrays size can be changed after creation", "None"],
+    "a": "Array indices start at 0",
+    "level": "Easy"
+  },
+  {
+    "q": "Which keyword is used to prevent inheritance in Java?",
+    "o": ["final", "static", "private", "sealed"],
+    "a": "final",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these exceptions is checked at compile-time in Java?",
+    "o": ["IOException", "ArithmeticException", "NullPointerException", "ArrayIndexOutOfBoundsException"],
+    "a": "IOException",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about Java packages?",
+    "o": ["Packages are used to group classes", "Packages can prevent name conflicts", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about the final keyword in Java?",
+    "o": ["Cannot modify a final variable", "Cannot override a final method", "Cannot inherit a final class", "All of the above"],
+    "a": "All of the above",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about Java's garbage collection?",
+    "o": ["Automatically deletes unreachable objects", "Can be manually invoked", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is correct about Java StringBuilder?",
+    "o": ["Mutable sequence of characters", "Immutable sequence of characters", "Cannot append characters", "Both 2 and 3"],
+    "a": "Mutable sequence of characters",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about Java enums?",
+    "o": ["Enums are special classes", "Enums can have constructors and methods", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about Java static variables?",
+    "o": ["Shared among all objects", "Created per object", "Cannot be accessed inside static methods", "None"],
+    "a": "Shared among all objects",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which method is used to convert String to uppercase in Java?",
+    "o": ["toUpperCase()", "upper()", "uppercase()", "convertUpper()"],
+    "a": "toUpperCase()",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is true about Java abstract classes?",
+    "o": ["Cannot be instantiated", "Can have abstract and non-abstract methods", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about Java interfaces (post Java 8)?",
+    "o": ["Can have default methods with implementation", "Cannot have static methods", "Cannot have constants", "All methods must be abstract"],
+    "a": "Can have default methods with implementation",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these keywords is used to handle exceptions in Java?",
+    "o": ["try", "catch", "finally", "All of the above"],
+    "a": "All of the above",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about Java multi-threading?",
+    "o": ["Threads can be created by extending Thread class", "Threads can be created by implementing Runnable", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "q": "What is the main purpose of an artificial neural network?",
+    "o": ["Model complex non-linear relationships", "Store large datasets", "Perform database queries", "Reduce dimensionality"],
+    "a": "Model complex non-linear relationships",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is an activation function?",
+    "o": ["ReLU", "SGD", "MSE", "PCA"],
+    "a": "ReLU",
+    "level": "Easy"
+  },
+  {
+    "q": "What does ReLU stand for?",
+    "o": ["Rectified Linear Unit", "Regularized Linear Unit", "Random Linear Unit", "Recursive Linear Unit"],
+    "a": "Rectified Linear Unit",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is a common loss function for classification in deep learning?",
+    "o": ["Cross-Entropy Loss", "Mean Squared Error", "Euclidean Distance", "Hinge Loss"],
+    "a": "Cross-Entropy Loss",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about backpropagation?",
+    "o": ["Used to update weights in a neural network", "Requires calculation of gradients", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which optimizer adapts learning rates per parameter using first and second moments?",
+    "o": ["Adam", "SGD", "RMSProp", "AdaGrad"],
+    "a": "Adam",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following layers is commonly used in CNNs for feature extraction?",
+    "o": ["Convolutional Layer", "Dense Layer", "Dropout Layer", "BatchNorm Layer"],
+    "a": "Convolutional Layer",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which layer is used to prevent overfitting in deep networks?",
+    "o": ["Dropout Layer", "Convolutional Layer", "Activation Layer", "Pooling Layer"],
+    "a": "Dropout Layer",
+    "level": "Moderate"
+  },
+  {
+    "q": "What does CNN stand for?",
+    "o": ["Convolutional Neural Network", "Clustered Neural Network", "Central Neural Node", "Connected Neural Network"],
+    "a": "Convolutional Neural Network",
+    "level": "Easy"
+  },
+  {
+    "q": "Which pooling operation reduces each feature map to its maximum value?",
+    "o": ["Max Pooling", "Average Pooling", "Global Pooling", "Min Pooling"],
+    "a": "Max Pooling",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is true about LSTM networks?",
+    "o": ["Used for sequential data", "Has gates to control information flow", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of the following is a vanishing gradient problem solution?",
+    "o": ["Use ReLU activation", "Use Sigmoid activation", "Use MSE loss", "Use linear activation"],
+    "a": "Use ReLU activation",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is used for image recognition?",
+    "o": ["CNN", "RNN", "MLP", "SVM"],
+    "a": "CNN",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of the following is true about RNNs?",
+    "o": ["Used for sequential or time-series data", "Can suffer from vanishing gradients", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is a regularization technique for neural networks?",
+    "o": ["L1/L2 penalties", "Dropout", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about batch normalization?",
+    "o": ["Reduces internal covariate shift", "Speeds up training", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which type of deep learning network is used for text generation?",
+    "o": ["RNN/LSTM", "CNN", "GAN", "Autoencoder"],
+    "a": "RNN/LSTM",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about GANs?",
+    "o": ["Generative Adversarial Networks", "Consist of generator and discriminator", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which activation function is commonly used in hidden layers?",
+    "o": ["ReLU", "Softmax", "Sigmoid", "Tanh"],
+    "a": "ReLU",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which loss function is commonly used for regression tasks in deep learning?",
+    "o": ["Mean Squared Error", "Cross-Entropy", "Hinge Loss", "KL Divergence"],
+    "a": "Mean Squared Error",
+    "level": "Easy"
+  },
+  {
+    "q": "Which of these is true about weight initialization?",
+    "o": ["Proper initialization prevents vanishing/exploding gradients", "Xavier and He initialization are popular", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about residual networks (ResNet)?",
+    "o": ["Use skip connections to prevent degradation problem", "Allow training very deep networks", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which layer reduces feature map size and provides translation invariance?",
+    "o": ["Pooling Layer", "Dense Layer", "Dropout Layer", "Normalization Layer"],
+    "a": "Pooling Layer",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about Autoencoders?",
+    "o": ["Used for unsupervised feature learning", "Consists of encoder and decoder", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about softmax activation?",
+    "o": ["Used in output layer for multi-class classification", "Outputs probabilities summing to 1", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which optimization algorithm uses momentum to accelerate gradient descent?",
+    "o": ["SGD with momentum", "Adam", "RMSProp", "AdaGrad"],
+    "a": "SGD with momentum",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which type of neural network is commonly used for sequence-to-sequence tasks?",
+    "o": ["RNN/LSTM", "CNN", "MLP", "GAN"],
+    "a": "RNN/LSTM",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about vanishing gradient problem?",
+    "o": ["Gradients become very small", "Training becomes slow or stops", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about exploding gradients?",
+    "o": ["Gradients become very large", "Can cause numerical instability", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about transfer learning in deep learning?",
+    "o": ["Use pre-trained models for new tasks", "Reduces training time and data requirements", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about gradient clipping?",
+    "o": ["Prevents exploding gradients", "Limits gradient values during backpropagation", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about sequence models?",
+    "o": ["Can process time-series or text data", "Include RNN, LSTM, GRU", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which of these is true about convolution operation in CNN?",
+    "o": ["Extracts local features from input", "Reduces spatial dimensions if stride > 1", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  },
+  {
+    "q": "Which type of deep learning model is commonly used for generating realistic images?",
+    "o": ["GANs", "RNNs", "MLPs", "Autoencoders"],
+    "a": "GANs",
+    "level": "Difficult"
+  },
+  {
+    "q": "Which of these is true about deep learning training?",
+    "o": ["Requires large amounts of data", "GPU accelerates training significantly", "Both statements are correct", "None"],
+    "a": "Both statements are correct",
+    "level": "Moderate"
+  }
+]
